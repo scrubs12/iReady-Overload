@@ -6,7 +6,7 @@ iReady is awful. It's the worst education tool anyone could ever use. I'm fed up
 Download the chrome extension by clicking [here](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)
 
 Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on
-then just drag chromeExtension.zip onto the page and ur good
+then just unzip chromeExtension.zip and drag folder onto the page and ur good
 
 # How to avoid being AFK-kicked
 press ctrl + shift + i, press console tab at top and paste the stuff below in and press obviously press enter

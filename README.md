@@ -22,8 +22,3 @@ lol()
 # Extra
 
 credit to ArjhanToteck for originally making this but since his got deleted and he never updated anyways i decided to steal it
-
-
-## Final checklist
-- * [x] I know how to properly use check boxes 
-- * [x] I have not used any OwO's or UwU's in this issue.

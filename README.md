@@ -9,7 +9,7 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
 then just unzip chromeExtension.zip and drag folder onto the page and ur good
 
 # How to avoid being AFK-kicked
-press ctrl + shift + i, press console tab at top and paste the stuff below in and press obviously press enter
+press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter
 ```
 function lol() {
 document.getElementById("btn-footer-MY_PROGRESS").click()

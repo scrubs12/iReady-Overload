@@ -21,7 +21,7 @@ lol()
 
 # Bookmarklet
 
-A bookrmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, highlight all of the text and drag it onto your bookmark bar. This will create a boomark you can press while on the iReady website to open the iReady Overload menu.
+A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, highlight all of the text and drag it onto your bookmark bar. This will create a boomark you can press while on the iReady website to open the iReady Overload menu.
 
 # Extra
 
